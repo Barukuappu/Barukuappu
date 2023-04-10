@@ -10,3 +10,5 @@ Baby Gym-rat puppy developer who loves programming and coding!
 * Twitch : https://www.twitch.tv/barukuappu
 * HyperPlanet(Mastodon) : https://hyperpla.net/@skydog
 * YouTube : https://www.youtube.com/@skydog_dev
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
