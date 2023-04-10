@@ -1,11 +1,8 @@
 강민혁 a.k.a 스카이독 (Minhyuk Kang a.k.a SKYDOG)
 =============
 
-프로그래밍과 코딩을 좋아하는 애기 헬창 멍멍이 개발자!
+🐶 프로그래밍과 코딩을 좋아하는 애기 헬창 멍멍이 개발자!
 Baby Gym-rat puppy developer who loves programming and coding!
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat-square&logo=HTML5&logoColor=black"/>
 
 * Homepage(HTML) : https://skydog.dev
 * Homepage(WordPress) : http://barukuappu.mycafe24.com
