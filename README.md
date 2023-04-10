@@ -2,6 +2,7 @@
 =============
 
 프로그래밍과 코딩을 좋아하는 애기 헬창 멍멍이 개발자!
+Baby Gym-rat puppy developer who loves programming and coding!
 
 * Homepage(HTML) : https://skydog.dev
 * Homepage(WordPress) : http://barukuappu.mycafe24.com
