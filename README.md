@@ -4,7 +4,7 @@
 🐶 프로그래밍과 코딩을 좋아하는 애기 헬창 멍멍이 개발자!
 Baby Gym-rat puppy developer who loves programming and coding!
 
-![Website](https://img.shields.io/website?style=for-the-badge&up_message=SKYDOG.DEV&url=https%3A%2F%2Fskydog.dev)
+<a href="https://skydog.dev" target="_blank"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=SKYDOG.DEV&url=https%3A%2F%2Fskydog.dev">
 
 * Homepage(HTML) : https://skydog.dev
 * Homepage(WordPress) : http://barukuappu.mycafe24.com
