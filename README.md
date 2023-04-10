@@ -4,6 +4,8 @@
 프로그래밍과 코딩을 좋아하는 애기 헬창 멍멍이 개발자!
 Baby Gym-rat puppy developer who loves programming and coding!
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+
 * Homepage(HTML) : https://skydog.dev
 * Homepage(WordPress) : http://barukuappu.mycafe24.com
 * Twitter : https://twitter.com/Barukuappu
@@ -11,4 +13,4 @@ Baby Gym-rat puppy developer who loves programming and coding!
 * HyperPlanet(Mastodon) : https://hyperpla.net/@skydog
 * YouTube : https://www.youtube.com/@skydog_dev
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+![Barukuappu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barukuappu&show_icons=true&theme=radical)
