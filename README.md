@@ -6,7 +6,7 @@
 Baby Gym-rat puppy developer who loves programming and coding!
 <br>
 
-<a href="https://skydog.dev" target="_blank"><img src="https://img.shields.io/badge/HOMEPAGE(NOTION)-SKYDOG.DEV-000000?style=for-the-badge&logo=notion&logoColor=white">
+<a href="https://www.skydog.dev" target="_blank"><img src="https://img.shields.io/badge/HOMEPAGE(NOTION)-SKYDOG.DEV-000000?style=for-the-badge&logo=notion&logoColor=white">
 <br>
 <a href="https://barukuappu.mycafe24.com" target="_blank"><img src="https://img.shields.io/badge/HOMEPAGE(WORDPRESS)-BARUKUAPPU.MYCAFE24.COM-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 <br>
