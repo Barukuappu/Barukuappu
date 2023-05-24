@@ -8,8 +8,6 @@ Baby Gym-rat puppy developer who loves programming and coding!
 
 <a href="https://www.skydog.dev" target="_blank"><img src="https://img.shields.io/badge/HOMEPAGE(NOTION)-SKYDOG.DEV-000000?style=for-the-badge&logo=notion&logoColor=white">
 <br>
-<a href="https://barukuappu.mycafe24.com" target="_blank"><img src="https://img.shields.io/badge/HOMEPAGE(WORDPRESS)-BARUKUAPPU.MYCAFE24.COM-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-<br>
 <a href="https://twitter.com/Barukuappu" target="_blank"><img src="https://img.shields.io/badge/TWITTER-@BARUKUAPPU-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 <br>
 <a href="https://hyperpla.net/@skydog" target="_blank"><img src="https://img.shields.io/badge/HYPERPLANET(MASTODON)-@SKYDOG-6364FF?style=for-the-badge&logo=mastodon&logoColor=white">
