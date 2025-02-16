@@ -5,4 +5,4 @@ SKYDOG 스카이독
 
 <a href="https://twitter.com/Barukuappu" target="_blank"><img src="https://img.shields.io/badge/TWITTER-@BARUKUAPPU-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 <br>
-<a href="https://www.youtube.com/@xrossdog" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-@XROSSDOG-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<a href="https://www.youtube.com/@Barukuappu" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-@BARUKUAPPU-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
